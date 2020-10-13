@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm an Azure Application Development Specialist, working for Microsoft in the UK. That means I cover areas such as DevOps, PaaS, Serverless and Containers (including Kubernetes).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Sometimes I find it useful to make a note of how to do something that isn't clearly covered in another location, and I'll use this blog as a place to put those things.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is not an official Microsoft blog, just somewhere for me to make some notes and share them, if only to myself.
