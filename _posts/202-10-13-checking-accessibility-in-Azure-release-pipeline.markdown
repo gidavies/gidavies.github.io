@@ -2,7 +2,7 @@
 layout: post
 title:  "Checking accessibility in Azure release pipelines"
 date:   2020-10-13 11:58:25 +0100
-categories: jekyll update
+categories: Azure Pipelines Accessibility
 ---
 
 Given that all [UK public sector websites should now meet new accessibility rules](https://gcs.civilservice.gov.uk/blog/23-september-is-here-what-does-this-mean-for-you-and-accessibility/) I thought it would be useful to provide a simple example of running accessibility checks as part of an Azure release pipeline. In other words, every time there is a new deployment of a web application, the deployment can pass or fail based on it's accessibility (as well as any other functional and non functional tests you include).
