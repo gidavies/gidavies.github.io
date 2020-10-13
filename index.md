@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![notebook ready for writing]({{ site.url }}/assets/home_banner_wide.jpg)
