@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disabling Azure Logic Apps with the C# SDK"
+title:  "Disabling Azure Logic Apps with the .NET SDK"
 date:   2020-09-24 11:58:25 +0100
 categories: Azure LogicApps SDK
 ---
